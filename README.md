@@ -3,7 +3,7 @@
 ## Tuần 1: Python cơ bản
 * Cài đặt Python, môi trường ảo
 * Kiểu dữ liệu và biến
-* Câu điều kiện
+* Toán tử, Câu điều kiện
 * Mảng 1 chiều và đa chiều, object
 * Hàm cơ bản, Xử lý ngoại lệ
 
