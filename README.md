@@ -177,12 +177,19 @@
     - Embedding:
         - Là chuyển văn bản dạng text sang dạng vector. Vì Qdrant và FAISS là cơ sở dữ liệu lưu dạng vector. Dùng cho tìm kiếm văn bản, dựa theo ngữ cảnh gần giống nhất. Ví dụ như mình cần tìm kiếm là `phổ biến`, thì cơ sở dữ liệu sẽ trả về các từ liên quan như `nổi tiếng`, `common`, ...
 * Qdrant, FAISS
-* Thực hành: Basic RAG
+* Thực hành: Basic RAG: 
 Seminar Chatbot RAG: [Link record](https://www.youtube.com/watch?v=EdJZ38rrKk0)
 * Framework LangChain
 * Framework LlamaIndex
 
 ## Tuần 5: Automation
-## Tuần 6: Agent
+## Tuần 6: AI Agent
+* Giới thiệu: Là một hệ thống trí tuệ nhân tạo được thiết kế để tự động thực hiện nhiệm vụ nhằm đạt một mục tiêu nào đó, thường không cần (hoặc cần rất ít) sự can thiệp trực tiếp của con người.
+
 ## Tuần 7: Multi Agent
+* Giới thiệu: Là một mô hình trong đó nhiều AI Agent hoạt động cùng nhau để giải quyết một vấn đề hoặc hoàn thành một mục tiêu phức tạp.
+* Ảnh minh họa quy trình hoạt động cơ bản của hệ thống Multi Agent:
+
+![Basic Multi Agent](assets/Multi_Agent.png)
+
 ## Tuần 8: Deploy 
